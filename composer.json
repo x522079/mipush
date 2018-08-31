@@ -1,0 +1,19 @@
+{
+  "name": "xin/mi-push",
+  "description": "mi push package",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "xinyuquan",
+      "email": "522079893@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "xmpush\\": "xmpush/"
+    }
+  }
+}
